@@ -2,7 +2,7 @@
 
 In this exercise, you will write SQL queries that create a database, tables, and answer some business queries.
 
-## Exercise 1 : Create the Database (1 pts)
+## Exercise 1 : Create the Database
 
 Write the following SQL queries into [_1_create_database.sql_](1_create_database.sql)
 1. Create a Database named **UniversityDB**
@@ -36,7 +36,7 @@ Write the following SQL queries into [_1_create_database.sql_](1_create_database
     * NomUniversite varchar(60)
   
 
-## Exercise 2 : Database adjustements (4 pts)
+## Exercise 2 : Database adjustements (2 pts)
 
 Write the following SQL queries to adjust the database:
 1. Add new column **date_naissance** to the table **chercheur**. Put your query into [_2_1_DateNaissance.sql_](2_1_DateNaissance.sql)
@@ -44,7 +44,7 @@ Write the following SQL queries to adjust the database:
 3. Add the constraint "Each **laboratoire** must have a _chef_" . Put your query into [_2_3_chef.sql_](2_3_chef.sql)
 4. Add the constraint "The _budget_ of each **projet** must not exceed 5000000". Put your query into [_2_4_budget.sql_](2_4_budget.sql)
    
- ## Exercise 3 : Database Queries (3 pts)
+ ## Exercise 3 : Database Queries (2 pts)
 
  1. Display average of **Charge_Horaire** of each **project**, output columns : *CodePrj, AVG(Charge_Horaire)*. Put your query into [_3_1_average.sql_](3_1_average.sql)
  2. Display (_NomCh, NomUniversite_) of the **chercheurs** related to '**LSI**' **laboratoire**, output columns : *Chercheur.NomCh, Universite.NomUniversite*. Put your query into [_3_2_nomCh.sql_](3_2_nomCh.sql)
