@@ -8,7 +8,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 0
     },
     {
       "name": "Exercice 2 : Start Script 2_1_DateNaissance.sql",
@@ -28,7 +28,7 @@
       "output": "date_naissance",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 0.5
     },
     {
       "name": "Start Script 2_2_DateFin.sql",
@@ -48,7 +48,7 @@
       "output": "   0",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 0.5
     },
     {
       "name": "Start 2_3_chef.sql",
@@ -68,7 +68,7 @@
       "output": "NO",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 0.5
     },
     {
       "name": "Start 2_4_budget.sql",
@@ -88,7 +88,7 @@
       "output": "CHECK",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 0.5
     },
     {
       "name": "Exercice 3 : Insert Data",
@@ -108,7 +108,7 @@
       "output": "p8              322",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 0.5
     },
     {
       "name": "Check chercheurs related to 'LSI' laboratoire",
@@ -118,7 +118,7 @@
       "output": "salim ahmed",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 0.5
     },
     {
       "name": "Check sorted Sort the laboratoiries",
